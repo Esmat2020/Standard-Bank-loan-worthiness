@@ -28,3 +28,5 @@ There are many AutoEDA Python libraries out there which include:
 - How do the incomes of those who are employed compare to those who are self employed based on the historical dataset?
 - Are applicants with a credit history more likely to default than those who do not have one?
 - Is there a correlation between the applicant's income and the loan amount they applied for?
+# Part Two
+The model we will train will be a Logistic Regression predict if the potential borrower will default on his/her loan or not, and do this such that the applicant receives a response immediately after completing their application.
